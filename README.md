@@ -1,1 +1,1 @@
-# node-ts-api-boilerplate
+# Boilerplate for REST APIs with Node, Express, Mongo and TypeScript
